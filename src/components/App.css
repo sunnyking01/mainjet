@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.headNav {
+  background-color: #000;
+}
+.devsort{
+  display: flex;
+  
+}
+input{ 
+  
+  width: 90%;
+  height: 50%;
+  margin: 30px;
+}
+
+button{
+  width: 60px;
+  height: 40px;
+}
